@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 250" role="img" aria-labelledby="title desc">
+  <title id="title">COPEX</title>
+  <desc id="desc">COPEX wordmark with a layered cyan, purple, magenta, red, orange, and yellow frame.</desc>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M35 38V215H550" stroke="#17c9d8" stroke-width="12"/>
+    <path d="M49 31V201H536" stroke="#5e45d8" stroke-width="12"/>
+    <path d="M63 24V187H522" stroke="#cc3eb9" stroke-width="12"/>
+    <path d="M77 17V173H508" stroke="#f04757" stroke-width="12"/>
+    <path d="M91 10V159H494" stroke="#ff8637" stroke-width="12"/>
+    <path d="M105 3V145H480" stroke="#f4d83e" stroke-width="12"/>
+  </g>
+  <rect x="120" y="42" width="458" height="124" rx="8" fill="#fff"/>
+  <text x="143" y="127" fill="#111217" font-family="Arial Black, Arial, sans-serif" font-size="86" font-weight="900" letter-spacing="-7">COPE<tspan fill="#a5ec21">X</tspan><tspan fill="#111217" letter-spacing="-3">.</tspan></text>
+</svg>
